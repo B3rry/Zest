@@ -18,9 +18,6 @@ brew install imagemagick
 ## Use
 Run `processAppIcon.sh` (located in the `./scripts` directory) to compile app icons. App icon assets will be generated with dynamic text, and will be output to `Zesty/processed/AppIcon.appiconset`. To see an example output, run `sh example.sh` from this directory.
 
-### `processAppIcon.sh`
-Use this script to process app icons.
-
 #### Options:
 All options are required.
 
