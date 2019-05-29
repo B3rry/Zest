@@ -1,0 +1,2 @@
+# `Zesty/processed`
+Unless a path is passed to `processAppIcon.sh` (which actually isn't supported right now…), processed app icons will be dumped into this directory by default. You should use this as a staging area, and should not rely on this directory for persistent reference to the output of this script. **The contents of this diretory _will_ be overwritten on each operation.**
