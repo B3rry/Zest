@@ -1,1 +1,1 @@
-sh ./scripts/processAppIcon.sh -t "FOO" -p "#" -s "sample"
+sh ./scripts/processAppIcon.sh -t "foo" -p "#" -s "sample"
