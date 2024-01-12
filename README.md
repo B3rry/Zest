@@ -1,4 +1,4 @@
-<img align="right" height="160" src="./assets/zest_emblem.png">
+<img align="right" height="180" src="./assets/zest_emblem.png">
 
 # Zest
 
@@ -48,4 +48,4 @@ All options are required when running the `processAppIcon.sh` script:
 
 ## Contributing
 
-Contributions to enhance Zesty are welcome. If you have ideas for improvements or have found a bug, please open an issue. If you'd like to contribute directly, feel free to fork the repository and submit a pull request. Your help in improving this tool is always appreciated.
+Contributions to enhance Zest are always welcome. If you have ideas for improvements or have found a bug, please open an issue. If you'd like to contribute directly, feel free to fork the repository and submit a pull request. Your help in improving this tool is always appreciated.
