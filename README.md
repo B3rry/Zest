@@ -11,6 +11,8 @@ The main script, `processAppIcon.sh`, compiles app icons with dynamic text provi
 ![Example Dynamic Icons](./assets/example_dynamic_icons.jpeg)
 _Update your app icon with a pull request number, commit hash, version number, or more._
 
+Set up Zest and run `sh ./scripts/processAppIcon.sh -t "foo" -p "#" -s "sample"` to view a live demonstration. Works great with tools like Jetpack, Jenkins and GitHub Actions.
+
 
 ## Installation and Setup
 
