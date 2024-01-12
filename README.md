@@ -1,8 +1,9 @@
-# Zesty
+# Zest
 
-Zesty is tool that dynamically updates your iOS app icons directly from the command line. 
+Zest is a command line tool that dynamically updates your iOS app icons. 
 
-![Example Dynamic Icons](./assets/example_dynamic_icons.png)
+![Example Dynamic Icons](./assets/example_dynamic_icons.jpeg)
+_Update your app icon with a pull request number, commit hash, version number, or more._
 
 The main script, `processAppIcon.sh`, compiles app icons with dynamic text provided at runtime. It uses the ImageMagick library to generate app icons with the provided text, with options for prefixing. The text is placed at the bottom of the icon, allowing you to create unique and identifiable app icons for different versions or environments of your app.
 
