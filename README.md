@@ -1,13 +1,16 @@
+<img align="right" height="200" src="./assets/zest_emblem.png">
+
 # Zest
 
 Zest is a command line tool that dynamically updates your iOS app icons. 
 
-![Example Dynamic Icons](./assets/example_dynamic_icons.jpeg)
-_Update your app icon with a pull request number, commit hash, version number, or more._
+The script generates app icons of different sizes and places them in the `Zesty/processed/AppIcon.appiconset` directory. You can customize the text, prefix, and icon set to suit your needs, making it a versatile tool for managing your app icons.
 
 The main script, `processAppIcon.sh`, compiles app icons with dynamic text provided at runtime. It uses the ImageMagick library to generate app icons with the provided text, with options for prefixing. The text is placed at the bottom of the icon, allowing you to create unique and identifiable app icons for different versions or environments of your app.
 
-The script generates app icons of different sizes and places them in the `Zesty/processed/AppIcon.appiconset` directory. You can customize the text, prefix, and icon set to suit your needs, making it a versatile tool for managing your app icons.
+![Example Dynamic Icons](./assets/example_dynamic_icons.jpeg)
+_Update your app icon with a pull request number, commit hash, version number, or more._
+
 
 ## Installation and Setup
 
