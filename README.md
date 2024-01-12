@@ -1,6 +1,6 @@
 # Zesty
 
-Zesty is tool that dynamically updates your iOS app icons directly from the command line. 
+Zesty is a command line tool that dynamically updates your iOS app icons. 
 
 ![Example Dynamic Icons](./assets/example_dynamic_icons.jpeg)
 _Update your app icon with a pull request number, commit hash, version number, or more._
