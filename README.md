@@ -1,4 +1,4 @@
-<img align="right" height="200" src="./assets/zest_emblem.png">
+<img align="right" height="160" src="./assets/zest_emblem.png">
 
 # Zest
 
